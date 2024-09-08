@@ -1,5 +1,0 @@
-# Исключить виртуальную среду
-.gitignore
-.DS_Store
-lifegame/
-__pycache__/
