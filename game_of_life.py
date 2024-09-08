@@ -71,8 +71,8 @@ class GameOfLife:
                 rect = pygame.Rect(x * cell_size, y * cell_size, cell_size, cell_size)
                 if self.grid[y][x] == 1:
                     # Выбор случайного цвета
-                    # color = random.choice(colors)
-                    color = white
+                    color = random.choice(colors)
+                    # color = white
                     pygame.draw.rect(self.screen, color, rect)
                 else:
                     pygame.draw.rect(self.screen, black, rect, 1)

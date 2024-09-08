@@ -1,3 +1,4 @@
 # Исключить виртуальную среду
-life_env/
+.gitignore
+lifegame/
 __pycache__/
