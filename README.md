@@ -63,8 +63,4 @@ python3 game_of_life.py
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Enjoy experimenting with this simulation of Conway's Game of Life!
+This project is licensed under the MIT License.
